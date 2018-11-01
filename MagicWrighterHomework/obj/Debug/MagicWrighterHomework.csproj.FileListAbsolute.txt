@@ -1,0 +1,7 @@
+C:\Users\Ross Hinman\source\repos\MagicWrighterHomework\MagicWrighterHomework\bin\Debug\MagicWrighterHomework.exe.config
+C:\Users\Ross Hinman\source\repos\MagicWrighterHomework\MagicWrighterHomework\bin\Debug\MagicWrighterHomework.exe
+C:\Users\Ross Hinman\source\repos\MagicWrighterHomework\MagicWrighterHomework\bin\Debug\MagicWrighterHomework.pdb
+C:\Users\Ross Hinman\source\repos\MagicWrighterHomework\MagicWrighterHomework\obj\Debug\MagicWrighterHomework.csproj.CoreCompileInputs.cache
+C:\Users\Ross Hinman\source\repos\MagicWrighterHomework\MagicWrighterHomework\obj\Debug\MagicWrighterHomework.exe
+C:\Users\Ross Hinman\source\repos\MagicWrighterHomework\MagicWrighterHomework\obj\Debug\MagicWrighterHomework.pdb
+C:\Users\Ross Hinman\source\repos\MagicWrighterHomework\MagicWrighterHomework\obj\Debug\MagicWrighterHomework.csprojAssemblyReference.cache
